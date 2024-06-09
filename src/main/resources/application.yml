@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: getinthere-tistory
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true
